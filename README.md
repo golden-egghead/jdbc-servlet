@@ -1,4 +1,4 @@
-# Welcome to Math Utility Repository
+# Welcome to Shopping Project
 ### You will find in this repository
 
 * Shopping Website by jdbc-servlet
